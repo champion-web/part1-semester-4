@@ -343,4 +343,4 @@ select * from event;
 select * from category;
 select * from registration;
 select * from result;
-select * from performance_history;
+select * from performance_his
