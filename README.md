@@ -76,7 +76,6 @@ The RaceDay database contains the following main entities:
 The `REGISTRATION` entity is used to manage the many-to-many relationship between participants and events.
 
 ---
-
 ## API Endpoints
 
 ### Authentication
