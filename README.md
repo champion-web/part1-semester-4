@@ -71,7 +71,6 @@ The RaceDay database contains the following main entities:
 - One participant can have many results.
 - One event can have many results.
 - One category can have many results.
-- One participant can have many performance history records.
 - One user can have an organiser or participant profile.
 
 The `REGISTRATION` entity is used to manage the many-to-many relationship between participants and events.
