@@ -171,7 +171,7 @@ create table result (
 
 -- 8. PERFORMANCE HISTORY TABLE
 
-create table performance_history (
+
  
 
 -- INSERT SAMPLE USERS
