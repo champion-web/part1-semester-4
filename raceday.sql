@@ -172,21 +172,7 @@ create table result (
 -- 8. PERFORMANCE HISTORY TABLE
 
 create table performance_history (
-    history_id int identity(1,1) primary key,
-    participant_id int not null,
-    event_id int not null,
-    performance_date date not null,
-    time time null,
-    notes varchar(500) null,
-
-    constraint fk_history_participant
-        foreign key (participant_id)
-        references participant(participant_id),
-
-    constraint fk_history_event
-        foreign key (event_id)
-        references event(event_id)
-);
+ 
 
 -- INSERT SAMPLE USERS
 
