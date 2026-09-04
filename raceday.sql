@@ -7,7 +7,6 @@
 create database raceday;
 use raceday;
 
-
 -- 1. USER TABLE
 create table [user] (
     user_id int identity(1,1) primary key,
