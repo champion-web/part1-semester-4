@@ -325,4 +325,4 @@ select * from event;
 select * from category;
 select * from registration;
 select * from result;
-select * from performance_his
+select * from performan
