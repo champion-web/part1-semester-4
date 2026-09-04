@@ -9,7 +9,6 @@ The system helps event organisers manage sporting events, categories, participan
 
 The project is developed as a full-stack, API-driven application using a relational database.
 
-
 ## Main Features
 
 ### Organisers
