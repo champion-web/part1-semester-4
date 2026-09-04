@@ -61,7 +61,6 @@ The RaceDay database contains the following main entities:
 5. `CATEGORY`
 6. `REGISTRATION`
 7. `RESULT`
-8. `PERFORMANCE_HISTORY`
 
 ### Relationships
 
