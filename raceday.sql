@@ -305,13 +305,6 @@ values
 
     (1, 2, 1, 2, '00:45:32', 'finished', 90);
 
--- INSERT PERFORMANCE HISTORY
-
-insert into performance_history
-    (participant_id, event_id, performance_date, time, notes)
-values
-    (1, 1, '2026-10-10', '00:42:15',
-     'Completed the 10 km race in first position.'),
 
    
 
