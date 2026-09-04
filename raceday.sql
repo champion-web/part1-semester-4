@@ -313,8 +313,7 @@ values
     (1, 1, '2026-10-10', '00:42:15',
      'Completed the 10 km race in first position.'),
 
-    (2, 1, '2026-10-10', '00:45:32',
-     'Completed the 10 km race in second position.');
+   
 
 -- VERIFY THE DATABASE
 
