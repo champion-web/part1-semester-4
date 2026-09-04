@@ -169,10 +169,7 @@ create table result (
         check (status in ('finished', 'dnf', 'dns'))
 );
 
--- 8. PERFORMANCE HISTORY TABLE
 
-
- 
 
 -- INSERT SAMPLE USERS
 
